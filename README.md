@@ -1,4 +1,4 @@
-# 2019_Ghysels_et_al_Hydrogeol_J
+# 2019_Ghysels_etal_Hydrogeol_J
 Scripts used for the simulations of the two applications in Ghysels et al. (2019), Hydrogeol. J. 
 
 ## For users
@@ -20,7 +20,7 @@ Scripts used to generate Figs. 8 and 9 from Ghysels et al. (2019).
 Version 0.1.0 - April 2019 
 
 ## License
-This project is licensed under the MIT License. See also the  [LICENSE](.LICENSE.md) file.
+This project is licensed under the MIT License. See also the  [LICENSE](./LICENSE.md) file.
 
 ## References
 Ghysels G, Mutua S, Baya Veliz G & Huysmans M (2019). A modified approach for modelling river-aquifer interaction of gaining rivers in MODFLOW, including riverbed heterogeneity and river bank seepage. Hydrogeol. J. [https://doi.org/10.1007/s10040-019-01941-0](https://doi.org/10.1007/s10040-019-01941-0).
